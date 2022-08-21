@@ -1,0 +1,6 @@
+{
+    "db_url": "mongodb+srv://gaurang007:87VlR7xTk9X7MkCk@demo.havv7ft.mongodb.net/dwatatech",
+    "jwt_token_secret": "dwatatech-Key",
+    "refresh_jwt_token_secret": "dwatatech-Key",  
+    "timeZone": "Asia/Calcutta"
+}
